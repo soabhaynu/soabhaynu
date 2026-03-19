@@ -22,7 +22,7 @@
 
 ---
 
-<details>
+
   <summary><b>About me</b></summary>
 
   I'm a Software Engineer with 9+ years of experience building scalable distributed systems and search infrastructure.
@@ -30,11 +30,11 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
 
   <br/>
   <b>Fun fact:</b> I plan system optimizations the same way I plan trips: constraints first, then the fastest route.
-</details>
+
 
 ---
 
-<details>
+
   <summary><b>Tech Stack</b></summary>
 
   <p>
@@ -51,36 +51,32 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
     <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
     <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
   </p>
-</details>
+
 
 ---
 
-<details>
+
   <summary><b>What I care about</b></summary>
 
   - Backend engineering with strong performance focus
   - Distributed systems design and reliability
   - Search relevance, ranking pipelines, and optimization strategies
-</details>
+
 
 ---
 
-<details>
   <summary><b>Latest Work</b></summary>
 
   - Global Search Engine (current project)
     - Scalable search services, ranking and relevance flows
     - Optimization engine work: latency, cost, and query quality improvements
 
-</details>
 
 ---
 
-<details>
   <summary><b>Publications</b></summary>
 
   “No publications yet.”
-</details>
 
 ---
 
