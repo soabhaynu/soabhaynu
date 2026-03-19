@@ -38,18 +38,18 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
   <summary><b>Tech Stack</b></summary>
 
   <p>
-  <img src="https://img.shields.io/badge/Expertise%3A%20System%20Design-Expert-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Expertise%3A%20Microservices%20Architecture-Architecture-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Skill%3A%20Java-8%2B-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Skill%3A%20Go-1.x-cyan?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/Skill%3A%20Kafka%20Streams-Kafka-black?style=for-the-badge&logo=apachekafka" />
-  <img src="https://img.shields.io/badge/Skill%3A%20AWS%20Cloud-AWS-yellow?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Skill%3A%20OpenSearch-Search-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Skill%3A%20MySQL-DB-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Skill%3A%20PostgreSQL-DB-blueviolet?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Skill%3A%20MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Skill%3A%20Docker-Containers-blue?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Skill%3A%20Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Expert%20%7C%20System%20Design-Expert-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expert%20%7C%20Microservices%20Architecture-Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skill%20%7C%20Java-8%2B%20-8%2B%20Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Skill%20%7C%20Go-1.x-Go-1.x-cyan?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Skill%20%7C%20Kafka%20Streams-Kafka%20Streams-black?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/Skill%20%7C%20AWS%20Cloud-AWS%20Cloud-yellow?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Skill%20%7C%20OpenSearch-OpenSearch-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skill%20%7C%20MySQL-MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Skill%20%7C%20PostgreSQL-PostgreSQL-blueviolet?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Skill%20%7C%20MongoDB-MongoDB-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Skill%20%7C%20Docker-Docker-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Skill%20%7C%20Kubernetes-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" />
 </p>
 
 
