@@ -1,6 +1,6 @@
 <h1 <p align="center">
   <b>Hey there</b>
-  <img src="https://raw.githubusercontent.com/soabhaynu/soabhaynu/main/assets/wave.gif" width="34" height="34" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34" height="34" />
   <b>I'm Abhay</b>
 </p> </h1>
 
