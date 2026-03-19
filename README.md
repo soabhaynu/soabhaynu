@@ -1,16 +1,103 @@
-## Hi there 👋
+<h1 align="center">Abhay Sonu</h1>
 
-<!--
-**soabhaynu/soabhaynu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=900&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=Principal+Engineer;Distributed+Systems;Search+Optimization+Engine;Backend+Engineering"
+  />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-sonu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Sonu-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abhaysingh0678@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhaysingh0678%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Bangalore-orange?style=for-the-badge&logo=googlemaps" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>Principal Engineer</b> | Distributed Systems | Search Optimization
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soabhaynu&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soabhaynu&show_icons=true&theme=transparent" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soabhaynu&theme=transparent" />
+</p>
+
+---
+
+<details>
+  <summary><b>About me</b></summary>
+
+  I'm a Software Engineer with 9+ years of experience building scalable distributed systems and search infrastructure.
+I work on a search optimization engine focused on relevance, latency, and cost-efficient performance.
+
+  <br/>
+  <b>Fun fact:</b> I plan system optimizations the same way I plan trips: constraints first, then the fastest route.
+</details>
+
+---
+
+<details>
+  <summary><b>Tech Stack</b></summary>
+
+  <p>
+    <img src="https://img.shields.io/badge/System%20Design-Expert-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Java-8%2B-orange?style=for-the-badge&logo=java" />
+    <img src="https://img.shields.io/badge/Go-1.x-cyan?style=for-the-badge&logo=go" />
+    <img src="https://img.shields.io/badge/Kafka-Stream%20Processing-black?style=for-the-badge&logo=apachekafka" />
+    <img src="https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge&logo=amazonaws" />
+    <img src="https://img.shields.io/badge/OpenSearch-Search-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MySQL-DB-blue?style=for-the-badge&logo=mysql" />
+    <img src="https://img.shields.io/badge/PostgreSQL-DB-blueviolet?style=for-the-badge&logo=postgresql" />
+    <img src="https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb" />
+    <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
+  </p>
+</details>
+
+---
+
+<details>
+  <summary><b>What I care about</b></summary>
+
+  - Backend engineering with strong performance focus
+  - Distributed systems design and reliability
+  - Search relevance, ranking pipelines, and optimization strategies
+</details>
+
+---
+
+<details>
+  <summary><b>Latest Work</b></summary>
+
+  - Global Search Engine (current project)
+    - Scalable search services, ranking and relevance flows
+    - Optimization engine work: latency, cost, and query quality improvements
+
+</details>
+
+---
+
+<details>
+  <summary><b>Publications</b></summary>
+
+  “No publications yet.”
+</details>
+
+---
+
+## How to reach me
+- Email: `abhaysingh0678@gmail.com`
+- LinkedIn: https://www.linkedin.com/in/abhay-sonu/
+
