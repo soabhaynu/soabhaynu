@@ -39,17 +39,17 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
 
  <p>
     <img src="https://img.shields.io/badge/Expert-System%20Design-brightgreen?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Java-8%2B-orange?style=for-the-badge&logo=java" />
     <img src="https://img.shields.io/badge/Go-1.x-cyan?style=for-the-badge&logo=go" />
     <img src="https://img.shields.io/badge/Kafka-Stream%20Processing-black?style=for-the-badge&logo=apachekafka" />
-    <img src="https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge&logo=amazonaws" />
-    <img src="https://img.shields.io/badge/OpenSearch-Search-green?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/MySQL-DB-blue?style=for-the-badge&logo=mysql" />
-    <img src="https://img.shields.io/badge/PostgreSQL-DB-blueviolet?style=for-the-badge&logo=postgresql" />
-    <img src="https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb" />
-    <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
-    <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
+    <img src="https://img.shields.io/badge/Cloud-AWS-yellow?style=for-the-badge&logo=amazonaws" />
+    <img src="https://img.shields.io/badge/Search-OpenSearch-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/DB-MySQL-blue?style=for-the-badge&logo=mysql" />
+    <img src="https://img.shields.io/badge/DB-PostgreSQL-blueviolet?style=for-the-badge&logo=postgresql" />
+    <img src="https://img.shields.io/badge/NoSQL-MongoDB-green?style=for-the-badge&logo=mongodb" />
+    <img src="https://img.shields.io/badge/Containers-Docker-blue?style=for-the-badge&logo=docker" />
+    <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" />
   </p>
 
 
