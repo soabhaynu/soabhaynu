@@ -13,7 +13,7 @@
 ---
 
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
 I'm a Software Engineer with 9+ years of experience building scalable distributed systems and search infrastructure.
 I work on a search optimization engine focused on relevance, latency, and cost-efficient performance.
