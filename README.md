@@ -45,7 +45,7 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
 
 ---
 
- ## 💡 Latest Posts
+ ## 🧰 Latest Work
 
   - Global Search Engine (current project)
     - Scalable search services, ranking and relevance flows
