@@ -42,7 +42,7 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
     <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Java-8%2B-orange?style=for-the-badge&logo=java" />
     <img src="https://img.shields.io/badge/Go-1.x-cyan?style=for-the-badge&logo=go" />
-    <img src="https://img.shields.io/badge/Kafka-Stream%20Processing-black?style=for-the-badge&logo=apachekafka" />
+    <img src="https://img.shields.io/badge/Stream%20Processing-Kafka-black?style=for-the-badge&logo=apachekafka" />
     <img src="https://img.shields.io/badge/Cloud-AWS-yellow?style=for-the-badge&logo=amazonaws" />
     <img src="https://img.shields.io/badge/Search-OpenSearch-green?style=for-the-badge" />
     <img src="https://img.shields.io/badge/DB-MySQL-blue?style=for-the-badge&logo=mysql" />
