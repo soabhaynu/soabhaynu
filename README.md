@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b>Principal Engineer</b> | Distributed Systems | Search Optimization
+  <b>Software Engineer</b> | Distributed Systems | Search Optimization
 </p>
 
 <p align="center">
