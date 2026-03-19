@@ -75,6 +75,11 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
 ---
 
 ## 📬 How to reach me
-- Email: `abhaysingh0678@gmail.com`
-- LinkedIn: https://www.linkedin.com/in/abhay-sonu/
+<a href="mailto:abhaysingh0678@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Email-abhaysingh0678%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhay-sonu/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Sonu-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
