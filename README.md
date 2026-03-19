@@ -1,5 +1,7 @@
 <h1 <p align="center">
-  <b>Hey there 👋 I'm Abhay</b>
+  <b>Hey there</b>
+  <img src="https://raw.githubusercontent.com/soabhaynu/soabhaynu/main/assets/wave.gif" width="34" height="34" />
+  <b>I'm Abhay</b>
 </p> </h1>
 
 <p align="center">
@@ -25,9 +27,9 @@
 ---
 
 
-  <summary><b>About me</b></summary>
+## 👋 About Me
 
-  I'm a Software Engineer with 9+ years of experience building scalable distributed systems and search infrastructure.
+I'm a Software Engineer with 9+ years of experience building scalable distributed systems and search infrastructure.
 I work on a search optimization engine focused on relevance, latency, and cost-efficient performance.
 
   <br/>
@@ -37,8 +39,8 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
 ---
 
 
-  <summary><b>Tech Stack</b></summary>
-
+## 🛠️ Technologies & Tools
+  
  <p>
     <img src="https://img.shields.io/badge/Expert-System%20Design-brightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge" />
@@ -57,17 +59,7 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
 
 ---
 
-
-  <summary><b>What I care about</b></summary>
-
-  - Backend engineering with strong performance focus
-  - Distributed systems design and reliability
-  - Search relevance, ranking pipelines, and optimization strategies
-
-
----
-
-  <summary><b>Latest Work</b></summary>
+ ## 💡 Latest Posts
 
   - Global Search Engine (current project)
     - Scalable search services, ranking and relevance flows
@@ -76,13 +68,13 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
 
 ---
 
-  <summary><b>Publications</b></summary>
+## 📝 Latest Publications
 
   “No publications yet.”
 
 ---
 
-## How to reach me
+## 📬 How to reach me
 - Email: `abhaysingh0678@gmail.com`
 - LinkedIn: https://www.linkedin.com/in/abhay-sonu/
 
