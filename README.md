@@ -20,19 +20,6 @@
   <b>Software Engineer</b> | Distributed Systems | Search Optimization
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soabhaynu&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soabhaynu&show_icons=true&theme=transparent" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soabhaynu&theme=transparent" />
-</p>
-
 ---
 
 <details>
