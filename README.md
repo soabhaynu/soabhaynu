@@ -10,10 +10,6 @@
   />
 </p>
 
-<p align="center">
-  <b>Software Engineer</b> | Distributed Systems | Search Optimization
-</p>
-
 ---
 
 
