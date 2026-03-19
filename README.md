@@ -38,7 +38,7 @@ I work on a search optimization engine focused on relevance, latency, and cost-e
   <summary><b>Tech Stack</b></summary>
 
  <p>
-    <img src="https://img.shields.io/badge/Expert-brightgreen-System%20Design?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Expert-System%20Design-brightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Java-8%2B-orange?style=for-the-badge&logo=java" />
     <img src="https://img.shields.io/badge/Go-1.x-cyan?style=for-the-badge&logo=go" />
