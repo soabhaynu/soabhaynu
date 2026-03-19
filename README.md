@@ -11,16 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhay-sonu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Sonu-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:abhaysingh0678@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhaysingh0678%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Bangalore-orange?style=for-the-badge&logo=googlemaps" />
-</p>
-
-<p align="center">
   <b>Software Engineer</b> | Distributed Systems | Search Optimization
 </p>
 
