@@ -1,7 +1,7 @@
-<h1 align="center">Abhay Sonu</h1>
-<p align="center">
+<h1 <p align="center">
   <b>Hey there 👋 I'm Abhay</b>
-</p>
+</p> </h1>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=900&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=Principal+Engineer;Distributed+Systems;Search+Optimization+Engine;Backend+Engineering"
